@@ -47,10 +47,6 @@ function Login() {
         </div>
         <div className="login__desc">
           <p>A Place to Share knowledge and better understand the world</p>
-          <p style={{ color: "royalblue", fontSize: "25px" }}>
-            HandCrafted with ❤️ by{" "}
-          </p>
-          <h3>Code With Akky</h3>
         </div>
         <div className="login__auth">
           <div className="login__authOptions">
@@ -129,7 +125,7 @@ function Login() {
           <p>Privacy</p>
           <p>Terms</p>
           <p>Contact</p>
-          <p>&copy; Quora Fake Inc. 2021</p>
+          <p>&copy; Quora Fake Inc. 2023</p>
         </div>
       </div>
     </div>

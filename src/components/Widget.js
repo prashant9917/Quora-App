@@ -1,4 +1,4 @@
-import React from "react";
+ import React from "react";
 import "./Widget.css";
 import WidgetContent from "./WidgetContent";
 

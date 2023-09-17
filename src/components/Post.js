@@ -87,13 +87,13 @@ function Post({ Id, question, imageUrl, timestamp, users }) {
             isOpen={IsmodalOpen}
             onRequestClose={() => setIsModalOpen(false)}
             shouldCloseOnOverlayClick={false}
-            style={{
+            style={{ 
               overlay: {
-                width: 680,
-                height: 550,
+                width: 600,
+                height: 500,
                 backgroundColor: "rgba(0,0,0,0.8)",
                 zIndex: "1000",
-                top: "50%",
+                top: "55%",
                 left: "50%",
                 marginTop: "-250px",
                 marginLeft: "-350px",

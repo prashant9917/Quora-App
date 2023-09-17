@@ -29,12 +29,7 @@
   margin-top: 10px;
 }
 
-.login__desc > h3 {
-  margin-top: 10px;
-  text-align: center;
-  font-size: xx-large;
-  font-family: "Cedarville Cursive", cursive;
-}
+
 .login__desc > p {
   color: gray;
   text-align: center;

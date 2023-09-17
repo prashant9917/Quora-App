@@ -7,15 +7,15 @@ function SidebarOptions() {
     <div className="sidebarOptions">
       <div className="sidebarOption">
         <img
-          src="https://qphs.fs.quoracdn.net/main-thumb-t-930-100-cbbsbwijdhpyzlpipejvqpiijhhoaday.jpeg"
+          src="https://images.unsplash.com/photo-1587831990711-23ca6441447b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGVza3RvcCUyMGNvbXB1dGVyfGVufDB8fDB8fHww&w=1000&q=80"
           alt=""
         />
-        <p>History</p>
+        <p>Computer</p>
       </div>
 
       <div className="sidebarOption">
         <img
-          src="https://qphs.fs.quoracdn.net/main-thumb-t-858-100-VnZbEVtOIGkEHXlnYId9slumV59IPgkA.jpeg"
+          src="https://media.istockphoto.com/id/1418476287/photo/businessman-analyzing-companys-financial-balance-sheet-working-with-digital-augmented-reality.webp?b=1&s=170667a&w=0&k=20&c=AurjFYGLfh8-rkyvrr_u2hBHP2Eqaj39Gri8kl_Q7e8="
           alt=""
         />
 
@@ -23,23 +23,23 @@ function SidebarOptions() {
       </div>
       <div className="sidebarOption">
         <img
-          src="https://qphs.fs.quoracdn.net/main-thumb-t-1913-100-B8JrwaVauFzsaTSqXDqoWLCXzQb2mTE9.jpeg"
+          src="https://cdn.pixabay.com/photo/2015/02/15/09/33/news-636978_1280.jpg"
           alt=""
         />
-        <p>Psychology</p>
+        <p>News</p>
       </div>
 
       <div className="sidebarOption">
         <img
-          src="https://qphs.fs.quoracdn.net/main-thumb-t-877-100-e7jKHEQr0HExAIA9rlsyHlV6HJyRruEo.jpeg"
+          src="https://media.istockphoto.com/id/1136317339/photo/sports-equipment-on-floor.jpg?s=612x612&w=0&k=20&c=-aI8u_Se89IC-HJZYH724ei5z-bIcSvRW6qUwyMtRyE="
           alt=""
         />
-        <p>Cooking</p>
+        <p>Sports</p>
       </div>
 
       <div className="sidebarOption">
         <img
-          src="https://qphs.fs.quoracdn.net/main-thumb-t-801-100-Sf8h894FXbQZQit0TeqDrrqS6xw6dwCQ.jpeg"
+          src="https://cdn.xxl.thumbs.canstockphoto.com/music-energy-clipping-path-xxl-music-energy-clipping-path-for-easy-placing-your-text-behind-stock-photograph_csp0593999.jpg"
           alt=""
         />
         <p>Music</p>
@@ -47,7 +47,7 @@ function SidebarOptions() {
 
       <div className="sidebarOption">
         <img
-          src="https://qphs.fs.quoracdn.net/main-thumb-t-931-100-c8WCPwZ9qPsh5zLGQ5wHh1ddxtc9Cch7.jpeg"
+          src="https://www.odmps.org/updates/wp-content/uploads/2022/01/3651141-scaled.jpg"
           alt=""
         />
         <p>Science</p>
@@ -55,15 +55,15 @@ function SidebarOptions() {
 
       <div className="sidebarOption">
         <img
-          src="https://qphs.fs.quoracdn.net/main-thumb-t-1140-100-24q3tiv4WhPssc5TGwf0mvCM5aiqGVXW.jpeg"
+          src="https://t4.ftcdn.net/jpg/04/42/21/53/360_F_442215355_AjiR6ogucq3vPzjFAAEfwbPXYGqYVAap.jpg"
           alt=""
         />
-        <p>Health</p>
+        <p>Games</p>
       </div>
 
       <div className="sidebarOption">
         <img
-          src="https://qphs.fs.quoracdn.net/main-thumb-t-843-100-W7FzODceTO2aQmp8D7E4rKZ8YgSv21eR.jpeg"
+          src="https://img.freepik.com/premium-vector/movie-cinema-premiere-background_41737-251.jpg"
           alt=""
         />
         <p>Movies</p>
@@ -71,7 +71,7 @@ function SidebarOptions() {
 
       <div className="sidebarOption">
         <img
-          src="https://qphs.fs.quoracdn.net/main-thumb-t-2177-100-JiR07D1TQSfeQzRvWXomVaY4Poj2f8Yb.jpeg"
+          src="https://media.istockphoto.com/id/1452604857/photo/businessman-touching-the-brain-working-of-artificial-intelligence-automation-predictive.webp?b=1&s=170667a&w=0&k=20&c=iJp6e2C-l2lRmyG3ColHMpXe0QYrPnrfQQc2O6PsYC4="
           alt=""
         />
         <p>Technology</p>
@@ -79,7 +79,7 @@ function SidebarOptions() {
 
       <div className="sidebarOption">
         <img
-          src="https://qphs.fs.quoracdn.net/main-thumb-t-996-100-bfZBQjeEenKKl8fcNY4tVv0FyArtB0Mb.jpeg"
+          src="https://static.vecteezy.com/system/resources/thumbnails/006/817/039/small/educational-equipment-boards-and-books-education-concept-with-copy-space-photo.jpg"
           alt=""
         />
         <p>Education</p>

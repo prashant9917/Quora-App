@@ -92,13 +92,13 @@ function QHeader() {
           shouldCloseOnOverlayClick={false}
           style={{
             overlay: {
-              width: 700,
-              height: 600,
+              width: 600,
+              height: 500,
               backgroundColor: "rgba(0,0,0,0.8)",
               zIndex: "1000",
-              top: "50%",
+              top: "55%",
               left: "50%",
-              marginTop: "-300px",
+              marginTop: "-250px",
               marginLeft: "-350px",
             },
           }}
